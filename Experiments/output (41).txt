@@ -1,0 +1,4 @@
+GD weights [ 2.851 -1.885  1.26 ] final MSE 0.27911
+SGD weights [ 2.828 -1.897  1.28 ] final MSE 0.28092
+Momentum weights [ 3.015 -1.998  1.429] final MSE 0.23923
+Adam weights [ 2.406 -1.891  1.346] final MSE 0.58147

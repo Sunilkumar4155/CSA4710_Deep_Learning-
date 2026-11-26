@@ -1,0 +1,3 @@
+Weather entropy SciPy=1.4855 bits; manual=1.4855
+Cross entropy original=0.6931; improved=0.2231
+KL(P||A)=0.0231; KL(P||B)=0.2773; closer model=A

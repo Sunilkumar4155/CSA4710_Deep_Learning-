@@ -1,0 +1,7 @@
+Image matrix:
+ [[0. 1. 2.]
+ [3. 4. 5.]]
+Flattened vector: [0. 1. 2. 3. 4. 5.]
+Weights shape: (6, 2)
+Fully connected output: [12.6 13.8]
+ReLU output: [12.6 13.8]

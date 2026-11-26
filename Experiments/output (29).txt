@@ -1,0 +1,3 @@
+Prior P(D): 0.0100
+Sensitivity: 0.99; false-positive rate: 0.05
+P(D|positive): 0.1667 (16.67%)

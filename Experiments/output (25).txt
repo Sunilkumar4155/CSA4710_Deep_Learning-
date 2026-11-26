@@ -1,0 +1,11 @@
+Marks (rows=students):
+ [[88 76 91]
+ [72 84 79]
+ [95 90 93]
+ [65 70 68]
+ [81 86 85]]
+Total marks: [255 235 278 203 252]
+Average marks: [85.         78.33333333 92.66666667 67.66666667 84.        ]
+Highest average: Student 3
+Math x Physics: [6688 6048 8550 4550 6966]
+Subject averages: [80.2 81.2 83.2]
